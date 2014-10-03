@@ -1,6 +1,99 @@
+.cafe {width: 990px; height:650px; margin: auto; 
+
+}
+
 header {
 
-width: 90px;
-height:250px;
-background: url(../);
+width: 990px;
+height:255px;
+background: url(images/fondo-cafe.png)
+}
+
+h1{ position: absolute; top: 100px; left: 510px; 
+
+}
+
+nav ul li  { 
+
+	padding-left: 29px;
+	display: inline-block; 
+	float:center; 
+	font-family:helvetica;
+	padding: 10px;
+	
+
+}  
+
+ul >:first-child { background-color: #8a6145; color:#361d0f; height: 14px;
+
+
+}
+
+a{
+	text-decoration: none; 
+	font-size:12px; 
+	font-family:Helvetica;
+	color:white; 
+}
+
+nav {
+	text-align: center;
+	background:#230b03; 
+	height:34px; 
+	width: 990px;  
+	clear: both;
+	bottom: 0px;
+
+
+
+}
+
+p { font-size:12px; 
+	line-height: 20.24px; 
+	font-family:Arial;
+
+}
+
+article { 
+padding-left: 76px;
+	float:left;
+	width: 370px;
+	margin-top: 40px;
+	margin-bottom: 40px;
+
+
+
+
+}
+
+article p{ margin-top: 20px }
+
+article h2 { 
+
+	font-size:24px; 
+	font-family:Helvetica; 
+	font-weight: bold;
+
+
+}
+
+footer {
+	background:#230b03; 
+	height:34px; 
+	width: 990px;  
+	clear: both;
+	bottom: 0px;
+
+}
+
+footer p {
+padding-left: 26px;
+    color:white; 
+	font-size:12px; 
+	line-height: 20.24px; 
+	font-family:Arial;
+	padding-top: 5px
+
+
+
 }
