@@ -1,0 +1,105 @@
+.superblog {width: 900px; 
+			height:597px; margin: auto;}
+
+header { 
+	height: 90px;
+	width: 900px;
+	padding: 10px;
+	border-bottom: 1px black solid;
+	display: block;
+
+}
+
+h1 {
+	  height: 73px;
+	  width: 218px;
+	  font-size:40px; 
+	  font-family:Impact
+}
+
+h5{ 
+	font-weight: bold;
+	font-family: Arial;
+	font-size:11px ;
+}
+
+h2 { font-family: Impact }
+
+p{font-family: Arial;
+font-size: 15px;
+line-height: 20px; }
+
+nav 
+
+{ 
+      
+      width:287px; 
+      height: 45px;
+	  float:right; 
+	  font-family:Helvetica; 
+	  font-weight: bold; 
+	  font-size: 12px;
+	  color: black;
+}
+
+nav ul li { 
+
+	   	display: inline-block;
+	   	padding-left:5px;
+	   	padding-right:5px;
+
+}
+
+a{
+	   	line-height: 20px;
+	   	text-decoration: none;
+	   	color:black; 
+	   	font-weight: bold;
+}
+
+
+
+aside {
+		width: 230px;
+		height:365;
+		float: left; 
+	   	font-family: Arial;
+	   	font-size: 15px; 
+	   	font-weight: bold;  
+	   	line-height: 200%
+	   	
+	   }
+
+aside li{ 
+	   	
+	   	list-style-type: none;
+	   }
+
+section{ 
+	margin-top: -22px;
+	    float:right;
+		width: 600px;
+		height: 365px
+
+}
+
+
+article { 
+    padding-top: 10px;
+    width:677; 
+	height:223;
+	float:right;
+}
+
+article h5{padding-top: 5px;}
+article h2{padding-top: 5px;}
+article p{padding-top:  5px}
+
+footer{ 
+
+		width: 900px;
+		height: 47px;
+		clear: both; 
+		border-top:1px black solid;}
+
+		footer h5 { margin-top: 20px; }
