@@ -1,5 +1,12 @@
-.superblog {width: 900px; 
-			height:597px; margin: auto;}
+.superblog {
+
+		width: 900px; 
+		height:597px; 
+		margin: auto;
+        font-family: Arial;
+}
+
+			
 
 header { 
 	height: 90px;
@@ -10,24 +17,30 @@ header {
 
 }
 
-h1 {
+h1  {
 	  height: 73px;
 	  width: 218px;
 	  font-size:40px; 
 	  font-family:Impact
 }
 
-h5{ 
+h5 { 
 	font-weight: bold;
 	font-family: Arial;
 	font-size:11px ;
 }
 
-h2 { font-family: Impact }
+h2 { 	font-family: Impact 
 
-p{font-family: Arial;
-font-size: 15px;
-line-height: 20px; }
+}
+
+
+p 
+
+{		font-family: Arial;
+		font-size: 15px;
+		line-height: 20px; 
+	}
 
 nav 
 
@@ -55,6 +68,7 @@ a{
 	   	text-decoration: none;
 	   	color:black; 
 	   	font-weight: bold;
+	   	font-size: 14px;
 }
 
 
