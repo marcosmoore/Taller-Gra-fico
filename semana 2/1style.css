@@ -43,10 +43,6 @@ ul {
 	list-style-type: none; 
 }
 
-nav {
-	text-align: right;
-}
-
 nav ul li {
 	font-weight: bold; 
 	font-family: Helvetica; 
@@ -56,10 +52,19 @@ nav ul li {
 	padding-bottom: 15px;
 }
 
+
+
 a {
 	text-decoration: none;
 	color: #000000;
 }
+
+nav {
+	text-align: right;
+}
+
+
+
 
 aside {
 	float: left;
@@ -69,7 +74,7 @@ aside {
 
 
 aside li {
-	font-size: 0.8125em; 
+	font-size: 1em; 
 	font-family: Helvetica, sans-serif; 
 	text-align: left;  
 	line-height: 30px;
@@ -88,7 +93,7 @@ article {
 
 footer {
 	clear:both;
-	font-size: 0.75em; 
+	font-size: 0.7em; 
 	font-family: Helvetica;  
 	bottom: 0px; 
 	width: 990px;
@@ -98,7 +103,7 @@ footer {
 
 footer p {
 	font-weight: bold;
-	font-size: 0.75em;
+	font-size: 0.8em;
 }
 
 @media screen and (max-width: 650px) {
