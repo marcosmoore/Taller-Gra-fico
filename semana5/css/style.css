@@ -1,0 +1,48 @@
+.marcos{ 
+	width: 1300px; 
+	margin:auto;
+	margin-top:20px;
+}
+
+
+
+body{ background-color: #123D50;
+
+}
+
+nav{
+	padding-top: 200px;
+}
+
+a { 
+font-family: Helvetica, sans-serif; 
+   font-size:0.8em;
+   line-height:30px;
+   color:#80C7B1;
+   text-decoration:none;
+   letter-spacing:5px;
+
+}
+
+section{ 
+
+	margin-top: 70px;
+	margin-right: 500px;
+    float:right;
+	width: 400px;
+}
+
+aside {
+	margin-top: 50px;
+	float: left;
+	width: 350px;
+}
+
+p { padding-right: 12px;
+	font-family: Helvetica, sans-serif;
+	color:#A5C345;
+	font-size:11px;
+	line-height: 30px;
+	letter-spacing: 2px;
+ }
+
